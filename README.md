@@ -1,16 +1,16 @@
 <h3>Module Name : albumentation_augmentation </h3>
-<h4>Description: This module augment images and automatically adjust its annotations using <a href=https://github.com/albumentations-team/albumentations>albumentations</a> package.</h4>
+<h3>Description: This module augment images and automatically adjust its annotations using <a href=https://github.com/albumentations-team/albumentations>albumentations</a> package.</h3>
 
-Dependencies:
+<h3>Dependencies:
 	albumentations == 1.0.0
 	numpy == 1.19.3
-	opencv == 4.4.0.44
+	opencv == 4.4.0.44</h3>
 
-Brief Documentation:
+# Brief Documentation:
 
 # List of Augmentation Parameters ###
 
-### Batches and Single
+## Batches and Single
 path = directory of images and annotations
 annotation_format = annotation format for augmentation  (e.g. 'polygon_json'). if string none given
                     only images will be augmented
