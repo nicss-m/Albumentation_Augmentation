@@ -6,7 +6,7 @@
 	numpy == 1.19.3
 	opencv == 4.4.0.44</h3>
 
-# Brief Documentation:
+<h3> Brief Documentation: </h3>
 
 ## List of Augmentation Parameters ###
 
