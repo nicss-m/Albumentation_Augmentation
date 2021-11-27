@@ -8,9 +8,9 @@
 
 # Brief Documentation:
 
-# List of Augmentation Parameters ###
+## List of Augmentation Parameters ###
 
-## Batches and Single
+### Batches and Single
 path = directory of images and annotations
 annotation_format = annotation format for augmentation  (e.g. 'polygon_json'). if string none given
                     only images will be augmented
@@ -29,7 +29,7 @@ except_list = a list of file names (images) that will be excluded in the given p
 img_name = the image name in the given path (full name with extension)
 new_name = the additional prefix name in original name. default name is 'augment_'
 
-# List of Resize Parameters ###
+## List of Resize Parameters ###
 
 ### Batches and Single
 path = directory of images and annotations
