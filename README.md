@@ -1,12 +1,12 @@
 <h3>Module Name : albumentation_augmentation </h3>
-<h3>Description: This module augment images and automatically adjust its annotations using <a href=https://github.com/albumentations-team/albumentations>albumentations</a> package.</h3>
+<h4>Description: This module augment images and automatically adjust its annotations using <a href=https://github.com/albumentations-team/albumentations>albumentations</a> package.</h4>
 
-<h3>Dependencies:
+<h4>Dependencies:
 	albumentations == 1.0.0
 	numpy == 1.19.3
-	opencv == 4.4.0.44</h3>
+	opencv == 4.4.0.44</h4>
 
-<h3> Brief Documentation: </h3>
+<h2> Brief Documentation: </h2>
 
 ## List of Augmentation Parameters ###
 
