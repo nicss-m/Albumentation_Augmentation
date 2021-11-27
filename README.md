@@ -1,4 +1,4 @@
-Module Name : albumentation_augmentation
+Module Name : albumentation_augmentation \n
 Description: This module augment images and automatically adjust its annotations using albumentations package. Albumentations is available at https://github.com/albumentations-team/albumentations
 
 Dependencies:
